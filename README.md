@@ -9,7 +9,7 @@ But the few projects i am working on in private include:
 5) A e-commerce website that facilitates that process of catalog, invoices, quotes, credit notes, delivery notes, and statements, as well as keep track of users of the system and offers various report statistics of the day to day tasks.
 6) A pet networking application that utilizes tree data structures to enhance my understanding of tree data structures.
 7) A Netbeans Java application that was used to enhance my learning of tree data structures and various artificial intelligent search based techniques. 
-Currently I have all of these set to private so it shows I have 0 contributions so if you would like to view the repo let me know or if you are looking to hire? 
+Currently I have all of these set to private so it shows I have 0 contributions so if you would like to view the repo let me know or if you are looking to hire.
 
 How to reach me - krieolin@gmail.com
 
