@@ -19,6 +19,7 @@ But the few projects i am working on include:
 7) A Netbeans Java application that was used to enhance my learning of tree data structures and various artificial intelligent search based techniques. 
 Currently I have all of these set to private so it shows I have 0 contributions so if you would like to view the repo let me know or if you are looking to hire.
 
+Why don't you check some videos of a few projects I have done - https://www.youtube.com/playlist?list=PL9JuL0X19j23jA8ePd0pCezzzXQo-TELB
 How to reach me - krieolin@gmail.com
 
 <!---
